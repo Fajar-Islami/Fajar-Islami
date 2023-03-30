@@ -2,8 +2,9 @@
 
 # Halo semua! 
 Perkenalkan nama saya **Ahmad Fajar Islami**.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmad-fajar-islami-7b0800215/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmad-fajar-islami-7b0800215/)ku ya.   
 
+![](https://komarev.com/ghpvc/?username=Fajar-Islami)
 
 <!-- <p align="left">
   <a href="https://github.com/gilangadhan">
