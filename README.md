@@ -1,10 +1,18 @@
 ### Hi there 👋
 
-# Halo semua! 
-Perkenalkan nama saya **Ahmad Fajar Islami**.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahmad-fajar-islami-7b0800215/)ku ya.   
+# Hello everyone! 
+Let me introduce myself, my name is **Ahmad Fajar Islami**.\
+If you're interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/ahmad-fajar-islami-7b0800215/) account.   
 
 ![](https://komarev.com/ghpvc/?username=Fajar-Islami)
+
+## My Stats
+<p>
+<a href="https://github.com/dinopriyano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fajar-Islami&show_icons=true&theme=radical" />
+</a>
+</p>
+
 
 <!-- <p align="left">
   <a href="https://github.com/gilangadhan">
